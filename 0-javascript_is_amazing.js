@@ -1,0 +1,2 @@
+const myVar = "Javascript is amaizing";
+console.log(myVar);
